@@ -1,4 +1,4 @@
-package com.game.rest;
+package com.project.starter;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
